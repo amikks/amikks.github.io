@@ -2,17 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:amikkels@uwyo.edu'> amikkels@uwyo.edu </a> >
+subtitle: <a href='mailto:amikkels@uwyo.edu'> amikkels@uwyo.edu </a> 
   <p>PhD Candidate, U. Wyoming Department of Atmospheric Science.</p>
 
 profile:
-  align: right
+  align: upper right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: False
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
