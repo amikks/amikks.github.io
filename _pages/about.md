@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #### *contact&#58; <a href='mailto:amikkels@uwyo.edu'> amikkels@uwyo.edu </a>*
+subtitle: *contact&#58; <a href='mailto:amikkels@uwyo.edu'> amikkels@uwyo.edu </a>*
 
 profile:
   align: upper right
