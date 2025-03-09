@@ -9,7 +9,11 @@ profile:
   align: upper right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: False
+  more_info: <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
@@ -25,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-test test test
+I'm August Mikkelsen, a PhD candidate at the University of Wyoming advised by <a href='https://mccoy.pt/'>Dr. Daniel McCoy</a>. I'm principally interested in how clouds affect our global climate system.
 
 
