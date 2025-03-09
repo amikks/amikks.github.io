@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: about
 permalink: /
 subtitle: <a href='mailto:amikkels@uwyo.edu'> amikkels@uwyo.edu </a> PhD Candidate, U. Wyoming Department of Atmospheric Science.
